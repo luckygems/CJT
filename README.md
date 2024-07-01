@@ -1,1 +1,1 @@
-#Campus Card of CJT
+# CJT
